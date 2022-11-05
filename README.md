@@ -1,6 +1,8 @@
 # mentor-tracker
 
-An iOS app to keep track of your mentors.
+An iOS app to keep track of your mentors. Create reminders to regularly reach out to your mentors!
+
+My final project for Stanford's CS 193P - iOS App Development. Incorporates custom Gestures, ViewModifiers, implicit/explicit animations, and persistent information.
 
 # Demo
 
